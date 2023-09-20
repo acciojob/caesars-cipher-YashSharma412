@@ -29,7 +29,7 @@ const lookup = {
   Z: "M",
   "?": "?",
   ",": ",",
-	" ": " "
+	
 };
 
 function rot13(encodedStr) {
